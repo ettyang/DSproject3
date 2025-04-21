@@ -9,6 +9,7 @@ Required installations:
 pip install ultralytics
 
 import torch
+import torchvision.transforms as transforms
 import zipfile
 import os
 import pandas as pd
